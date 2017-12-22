@@ -38,4 +38,4 @@ enabled: true
 
 ## Usage
 
-After enabling the plugin please refere to https://github.com/goetas/twital
+After enabling the plugin please refer to <https://github.com/goetas/twital>.
