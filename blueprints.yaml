@@ -8,7 +8,7 @@ author:
 homepage: https://github.com/tsnorri/grav-plugin-grav-twital
 keywords: grav, plugin, twital, template
 bugs: https://github.com/tsnorri/grav-plugin-twital/issues
-docs: https://github.com/tsnorri/grav-plugin-twital/blob/develop/README.md
+docs: https://github.com/tsnorri/grav-plugin-twital/blob/master/README.md
 license: MIT
 
 form:
