@@ -1,0 +1,26 @@
+name: Grav Twital
+version: 0.1.0
+description: Use Twital templates with Grav
+icon: plug
+author:
+  name: Tuukka Norri
+  email: tsnorri@iki.fi
+homepage: https://github.com/tsnorri/grav-plugin-grav-twital
+keywords: grav, plugin, twital, template
+bugs: https://github.com/tsnorri/grav-plugin-twital/issues
+docs: https://github.com/tsnorri/grav-plugin-twital/blob/develop/README.md
+license: MIT
+
+form:
+  validation: strict
+  fields:
+    enabled:
+      type: toggle
+      label: Plugin status
+      highlight: 1
+      default: 0
+      options:
+        1: Enabled
+        0: Disabled
+      validate:
+        type: bool
