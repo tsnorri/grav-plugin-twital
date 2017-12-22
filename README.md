@@ -38,4 +38,4 @@ enabled: true
 
 ## Usage
 
-After enabling the plugin please refer to <https://github.com/goetas/twital>.
+After enabling the plugin, files with the extension `.html.twig` will be processed with Twital. The output will be HTML5. The template language is documented at <https://github.com/goetas/twital>.
