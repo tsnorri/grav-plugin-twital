@@ -5,7 +5,7 @@ icon: plug
 author:
   name: Tuukka Norri
   email: tsnorri@iki.fi
-homepage: https://github.com/tsnorri/grav-plugin-grav-twital
+homepage: https://github.com/tsnorri/grav-plugin-twital
 keywords: grav, plugin, twital, template
 bugs: https://github.com/tsnorri/grav-plugin-twital/issues
 docs: https://github.com/tsnorri/grav-plugin-twital/blob/master/README.md
